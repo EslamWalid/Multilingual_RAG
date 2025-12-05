@@ -19,7 +19,7 @@ The project is wrapped with a **FastAPI** service so you can query it over HTTP.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/multilingual_rag.git
+   git clone https://github.com/EslamWalid/multilingual_rag.git
    cd multilingual_rag
 
 2. Create a virtual environment:
@@ -39,3 +39,4 @@ The project is wrapped with a **FastAPI** service so you can query it over HTTP.
 
 ```bash
 uvicorn main:app --reload
+
