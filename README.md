@@ -8,7 +8,7 @@ The project is wrapped with a **FastAPI** service so you can query it over HTTP.
 
 ## 📂 Project Structure
 
-
+'''
 multilingual_rag/
 ├── main.py                # FastAPI entry point (ask function + endpoints)
 ├── config.py              # Configs, paths, thresholds
@@ -62,6 +62,7 @@ multilingual_rag/
 
 ```bash
 uvicorn main:app --reload
+
 
 
 
